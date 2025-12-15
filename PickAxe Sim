@@ -362,7 +362,7 @@ speedButtonObj = CreateButton("Egg Hatch Speed (1.2x is the fast hatch pass)", "
 end)
 
 ---
-CreateSection("Auto Jerome")
+CreateSection("Auto Mine ka sakin BBq")
 
 local miningSpeedEnabled = false
 CreateToggle("Mining Speed Boost (4x)", function(state)
@@ -478,7 +478,7 @@ end)
 
 ---
 
-CreateSection("Auto Chest Ni Jerome")
+CreateSection("Auto FlatChested")
 
 local autoChestEnabled = false
 CreateToggle("Auto Claim Chests", function(state)
@@ -513,4 +513,4 @@ CreateToggle("Auto Claim Chests", function(state)
 	end
 end)
 
-print("✅ Modern Automation UI Loaded!")
+print("Ang Cute mo JM AHAHHAHA")
