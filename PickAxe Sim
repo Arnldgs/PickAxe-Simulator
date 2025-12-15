@@ -323,7 +323,7 @@ task.spawn(function()
 end)
 
 -- Egg Hatch Speed with visible selection
-local speeds = {"OFF",1000}
+local speeds = {"OFF",999999}
 local currentSpeedIndex = 1
 local speedButtonObj = nil
 
